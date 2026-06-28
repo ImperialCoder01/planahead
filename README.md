@@ -1,5 +1,7 @@
 # PlanAhead — AI Execution Companion
 
+**Live App**: [planahead-546729139490.asia-southeast1.run.app](https://planahead-546729139490.asia-southeast1.run.app)
+
 PlanAhead is a professional, full-stack personal planning and focus optimization platform. Engineered with **React 19, Vite, Express, and Tailwind CSS v4**, it leverages the modern **Gemini SDK** (`@google/genai`) to provide smart, context-aware goal decomposition, real-time focus coaching, and velocity visualization.
 
 ---
