@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Remix: PlanAhead",
+  "description": "An AI Execution Companion for smart goal planning, automated task decomposition, real-time focus coaching, and velocity tracking.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
